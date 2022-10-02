@@ -1,0 +1,41 @@
+.display-1{
+    font-family: Ibarra Real Nova;
+}
+#head{
+    font-family: Ibarra Real Nova;
+}
+.spence{
+    font-family: Ibarra Real Nova;
+}
+.yelp{
+    font-family: Ibarra Real Nova;
+}
+#ques{
+    font-family: Ibarra Real Nova;
+}
+@media screen and (max-width: 2000px) and (min-width: 1200px) {
+
+    #ham1{
+        display: none;
+    }
+}
+@media screen and (max-width: 500px) {
+      #head{
+    font-family: Ibarra Real Nova;
+    }
+    #n{
+        display: none;
+    }
+    #bt{
+        display: none;
+    }
+}
+@media screen and (max-width: 1200px) and (min-width: 200px)  {
+    #n{
+        display: none;
+    }
+    #bt{
+        display: none;
+    }
+    
+}
